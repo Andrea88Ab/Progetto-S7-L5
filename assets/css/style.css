@@ -1,0 +1,9 @@
+body{
+    background-color:var(--bs-highlight-color);
+}
+
+h1{
+    color: fuchsia;
+    text-align: center;
+    font-size: 75px;
+}
